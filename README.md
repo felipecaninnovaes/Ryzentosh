@@ -17,10 +17,10 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 | CPU              | AMD Ryzen 5 1600AF                                 |
 | MotherBoard      | Gigabyte GA-AB350M-DS3H V2                         |
 | Wifi/Bluetooth   | USB Stick Bluetooth 5.0                            |
-| OS Disk          | SSD Husky Gaming M.2 NVME 128GB 256gb              |
+| OS Disk          | SSD Husky Gaming M.2 NVME 256gb                    |
 | RAM              | 4x Husky Gaming 8GB 2666Mhz DDR4 CL19 32GB Ram     |
 | GPU              | AMD Radeon RX550 Lexa 4gb                          |
-| Cooler    	   | Cooler Master Hyper H412R - RR-H412-20PK-R2        |
+| Cooler    	     | Cooler Master Hyper H412R - RR-H412-20PK-R2        |
 
 ## Working
 
