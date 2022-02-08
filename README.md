@@ -46,7 +46,8 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 * [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 * [RestrictEvents](https://github.com/acidanthera/RestrictEvents)
-* [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+* [VirtualSMC](https://github.com/acidanthera/VirtualSMC) 
+* [NVMeFix](https://github.com/acidanthera/NVMeFix)
 * [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 
 ## ACPI
