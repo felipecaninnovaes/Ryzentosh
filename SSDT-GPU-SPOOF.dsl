@@ -1,9 +1,9 @@
 DefinitionBlock ("", "SSDT", 1, "AMD", "GPU", 0x00000000)
 {
-    External (_SB_.XXXX.XXXX, DeviceObj)    // (from opcode)   
-    External (EGPS, IntObj)    // (from opcode)
+    External (_SB_.XXXX.XXXX, DeviceObj)    // Edit this value  
+    External (EGPS, IntObj)    
 
-    Scope (_SB_.XXXX.XXXX)
+    Scope (_SB_.XXXX.XXXX) // Edit this value
     {
         Device (GFX0)
         {
@@ -108,7 +108,7 @@ DefinitionBlock ("", "SSDT", 1, "AMD", "GPU", 0x00000000)
                         "AAPL,slot-name", 
                         Buffer ()
                         {
-                            "Internal@0,3,1/0,0" // Get this Value in MacOS
+                            "Internal@0,3,1/0,0" // Edit this Value, Get this Value in MacOS
                         }, 
 
                         "@0,AAPL,boot-display", 
