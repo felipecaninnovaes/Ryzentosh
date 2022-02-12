@@ -51,7 +51,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## ACPI
 
-* [SSDT-GPU-SPOOF](https://github.com/felipecaninnovaes/Ryzentosh-Rx550Lexa/blob/main/SSDT-GPU-SPOOF.dsl) fix RX 550 Lexa, I'm recording video.
+* [SSDT-GPU-SPOOF](https://github.com/felipecaninnovaes/Ryzentosh-Rx550Lexa/blob/main/SSDT-GPU-SPOOF.dsl) ( The fix RX 550 Lexa video, click [Here](https://youtu.be/xb5yKRhOtp0).)
 
 ## Credits and links
 
