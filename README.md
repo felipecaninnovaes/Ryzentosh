@@ -1,6 +1,6 @@
 # AMD Ryzen Hackintosh RX550 Lexa
 
-[![MacOS version](https://img.shields.io/badge/Ventura-13.2.1-informational.svg)](https://www.apple.com/macos) \
+[![MacOS version](https://img.shields.io/badge/Ventura-13.2.1-informational.svg)](https://www.apple.com/macos) 
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/felipecaninnovaes/Ryzentosh-Rx550Lexa/blob/main/README.md)
 
