@@ -1,11 +1,11 @@
 # AMD Ryzen Hackintosh RX550 Lexa
 
-[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.3.1-informational.svg)](https://www.apple.com/macos)\
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![MacOS version](https://img.shields.io/badge/Ventura-13.2.1-informational.svg)](https://www.apple.com/macos) \
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/felipecaninnovaes/Ryzentosh-Rx550Lexa/blob/main/README.md)
 
 ## Important information
-This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
+This EFI supports only MacOS versions Ventura(13.2) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
@@ -14,12 +14,13 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 | Component        | Model                                              |
 | ---------------- | ---------------------------------------------------|
-| CPU              | AMD Ryzen 5 1600AF                                 |
+| CPU              | AMD Ryzen™ 7 5700X                                 |
 | MotherBoard      | Gigabyte GA-AB350M-DS3H V2                         |
 | Wifi/Bluetooth   | USB Stick Orico Bluetooth 5.0                      |
 | OS Disk OS Disk (NVMe)| SSD Husky Gaming M.2 NVME 256gb               |
-| RAM              | 4x Husky Gaming 8GB 2666Mhz DDR4 CL19 32GB RAM     |
-| GPU              | AMD Radeon RX550 Lexa 4gb                          |
+| RAM              | 4x Husky Gaming 8GB 3200Mhz DDR4 CL19 32GB RAM     |
+| GPU 1            | GTX 1660 SUPER                                     |
+| GPU 2            | AMD Radeon RX550 Lexa 4gb  ( ? )                   |
 | Cooler    	     | Cooler Master Hyper H412R - RR-H412-20PK-R2        |
 
 ## Working
