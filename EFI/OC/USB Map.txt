@@ -1,0 +1,24 @@
+## Internal [255]
+
+
+## USB 2.0 [0]
+5. UK05 | AppleUSB20XHCIPort |  5 (05000000) | 00500000 | Type 3       -- USB 2.0 Trazeira
+6. UK06 | AppleUSB20XHCIPort |  6 (06000000) | 00600000 | Type 3       -- USB 2.0 Trazeira
+8. UK08 | AppleUSB20XHCIPort |  8 (08000000) | 00800000 | Type 3       -- USB 2.0 Azul Frontal
+9. UK09 | AppleUSB20XHCIPort |  9 (09000000) | 00900000 | Type 3       -- USB 2.0 Trazeira
+10. UK10 | AppleUSB20XHCIPort | 10 (0a000000) | 00a00000 | Type 3      -- USB 2.0 Trazeira
+13. UK13 | AppleUSB20XHCIPort | 13 (0d000000) | 00d00000 | Type 3       -- USB 2.0 Frontal
+14. UK14 | AppleUSB20XHCIPort | 14 (0e000000) | 00e00000 | Type 3       -- USB 2.0 Frontal
+15. UK01 | AppleUSB20XHCIPort |  1 (01000000) | 60100000 | Type 3       -- USB 2.0 Trazeira Azul
+16. UK02 | AppleUSB20XHCIPort |  2 (02000000) | 60200000 | Type 3       -- USB 2.0 Trazeira Azul
+17. UK03 | AppleUSB20XHCIPort |  3 (03000000) | 60300000 | Type 3       -- USB 2.0 Trazeira Azul
+18. UK04 | AppleUSB20XHCIPort |  4 (04000000) | 60400000 | Type 3       -- USB 2.0 Trazeira Azul
+T:5,6,8,9,10,13,14,15,16,17,18:0
+
+## USB 3.0 [3]
+4. UK04 | AppleUSB30XHCIPort |  4 (04000000) | 00400000 | Type 3       -- USB 3.0 Frontal
+19. UK05 | AppleUSB30XHCIPort |  5 (05000000) | 60500000 | Type 3      -- USB 3.0 Traseira
+20. UK06 | AppleUSB30XHCIPort |  6 (06000000) | 60600000 | Type 3      -- USB 3.0 Traseira
+21. UK07 | AppleUSB30XHCIPort |  7 (07000000) | 60700000 | Type 3      -- USB 3.0 Traseira
+22. UK08 | AppleUSB30XHCIPort |  8 (08000000) | 60800000 | Type 3      -- USB 3.0 Traseira
+T:4,19,20,21,22:3
